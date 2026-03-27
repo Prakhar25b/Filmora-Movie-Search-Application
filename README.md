@@ -5,6 +5,7 @@ Users can search for movies, view ratings and genres, watch trailers, and save f
 The UI features **Dark/Light mode**, **Glassmorphism design**, and a **Netflix-style layout**.
 
 ---
+[🔗 Live Demo](https://prakhar25b.github.io/Filmora-Movie-Search-Application/) , [🔗 Vercel](https://filmora-movie-search-application.vercel.app/)
 
 # 🚀 Features
 
