@@ -32,6 +32,7 @@ A cinematic movie search app built with React + Vite and the OMDB API.
    npm run build
 
 ## Project Structure
+```
 
 Filmora/
 ├── public/
@@ -47,3 +48,5 @@ Filmora/
 ├── index.html
 ├── package.json
 └── eslint.config.js
+
+```
