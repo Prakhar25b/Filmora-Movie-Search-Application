@@ -4,8 +4,9 @@ A modern **Movie Search Web Application** built using **React.js** and the **OMD
 Users can search for movies, view ratings and genres, watch trailers, and save favorites.
 The UI features **Dark/Light mode**, **Glassmorphism design**, and a **Netflix-style layout**.
 
----
 [🔗 Live Demo](https://prakhar25b.github.io/Filmora-Movie-Search-Application/) , [🔗 Vercel](https://filmora-movie-search-application.vercel.app/)
+
+---
 
 # 🚀 Features
 
